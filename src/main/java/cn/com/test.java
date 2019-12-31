@@ -10,4 +10,6 @@ public class test {
     public String t(){
         return "Hello Wold!";
     }
+
+    public void ts(){}
 }
